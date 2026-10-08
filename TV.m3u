@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ABC.us@East" tvg-logo="https://i.imgur.com/pvXZ8DX.png",ABC
-http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@News" tvg-logo="https://i.ibb.co/X3Q8MXk/ABC-News-Logo-610x343.jpg",ABC NEWS
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 #EXTINF:-1 tvg-id="CBS.us@News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="CNN.us@Headlines" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG_1755034025681.png",CNN Headlines
-https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8
+https://jmp2.uk/stvp-FRBD190001055
 #EXTINF:-1 tvg-id="NBC.us@East" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC
 http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@News" tvg-logo="https://i.imgur.com/nxY84W5.png",NBC News
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+https://jmp2.uk/stvp-ITBC4000028E
 #EXTINF:-1 tvg-id="PBS.us@KQED" tvg-logo="https://i.imgur.com/8c8isLj.png",PBS
 https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
